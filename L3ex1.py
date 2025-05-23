@@ -1,10 +1,6 @@
 import math
 import statistics as st
 def main():
-    temp=[]
-    templist=[]
-    min_max=[]
-    print("ET0735 (DevOps for AIoT) - Lab 2 - Introduction to Python")
     bmi=calculate_bmi(weight=57, height=1.73)
     bmi_range(bmi)
     
