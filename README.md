@@ -13,7 +13,7 @@ use `print()` to display output
 
 
 -Table formatting  
-|Name | Age | Sch |
+ |Name | Age | Sch |
 |-----|-----|-----|
 |Bob  | 17  |EEE  |
 |Pat  | 22  |CLS  |
