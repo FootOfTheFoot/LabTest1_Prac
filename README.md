@@ -12,7 +12,7 @@ use `print()` to display output
     2. Item 4
 
 
-Table formatting
+Table formatting  
 |Name | Age | Sch |
 |-----|-----|-----|
 |Bob  | 17  |EEE  |
