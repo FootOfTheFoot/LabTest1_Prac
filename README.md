@@ -13,10 +13,10 @@ use `print()` to display output
 
 
 - Table formatting  
- |Name | Age | Sch |
- |-----|-----|-----|
- |Bob  | 17  |EEE  |
- |Pat  | 22  |CLS  |
+>|Name | Age | Sch |
+>|-----|-----|-----|
+>|Bob  | 17  |EEE  |
+>|Pat  | 22  |CLS  |
 
 - Embedding image
 ![Cat pic ](https://images.pexels.com/photos/1314550/pexels-photo-1314550.jpeg?cs=srgb&dl=pexels-katarzyna-modrzejewska-495044-1314550.jpg&fm=jpg)
