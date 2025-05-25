@@ -12,8 +12,8 @@ use `print()` to display output
     2. Item 4
 
 
--Table formatting  
->|Name | Age | Sch |
+- Table formatting  
+ |Name | Age | Sch |
 >|-----|-----|-----|
 >|Bob  | 17  |EEE  |
 >|Pat  | 22  |CLS  |
