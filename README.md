@@ -19,6 +19,4 @@ use `print()` to display output
 >>|Pat  | 22  |CLS  |
 
 - Embedding image
-![Cat pic ](https://images.pexels.com/photos/1314550/pexels-photo-1314550.jpeg?cs=srgb&dl=pexels-katarzyna-modrzejewska-495044-1314550.jpg&fm=jpg)
-
-[mark rober space](https://youtu.be/qr1AvisQcV8?si=h6bVqPQ53--_UZJN)
+[![Cat picleading to mark rober space](https://images.pexels.com/photos/1314550/pexels-photo-1314550.jpeg?cs=srgb&dl=pexels-katarzyna-modrzejewska-495044-1314550.jpg&fm=jpg)](https://youtu.be/qr1AvisQcV8?si=h6bVqPQ53--_UZJN)
