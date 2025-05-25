@@ -1,5 +1,6 @@
-#This is a readme test, the more hashtags there are, the smaller the words are
-######test
+##This is a readme test, the more hashtags there are, the smaller the words are(used for headers)
+encase variables with `, for example:
+use `print()` to display output
 
 - Unordered list (+,*,-)
     * Item 1
