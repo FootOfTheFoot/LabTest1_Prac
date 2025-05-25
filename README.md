@@ -1,5 +1,5 @@
 ##This is a readme test, the more hashtags there are, the smaller the words are(used for headers)
-encase variables with `, for example:
+encase variables with ` `, for example:
 use `print()` to display output
 
 - Unordered list (+,*,-)
